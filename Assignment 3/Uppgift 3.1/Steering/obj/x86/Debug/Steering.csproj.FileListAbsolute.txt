@@ -1,0 +1,78 @@
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\Steering.exe
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\Steering.pdb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\obj\x86\Debug\Steering.csprojResolveAssemblyReference.cache
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\obj\x86\Debug\Steering.exe
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\obj\x86\Debug\Steering.pdb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\Content\missile.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Steering\Steering\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\obj\x86\Debug\Steering.exe
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\obj\x86\Debug\Steering.pdb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\missile.xnb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Steering.exe
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Steering.pdb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Uppgift 3.1\Steering\obj\x86\Debug\Steering.csprojResolveAssemblyReference.cache
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\obj\x86\Debug\Steering.exe
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\obj\x86\Debug\Steering.pdb
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Content\missile.xnb
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Steering.exe
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\Steering.pdb
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\filip\Downloads\Uppgift 3.1\Steering\obj\x86\Debug\Steering.csprojResolveAssemblyReference.cache

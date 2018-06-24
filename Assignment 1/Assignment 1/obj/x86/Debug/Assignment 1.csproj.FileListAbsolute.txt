@@ -1,0 +1,27 @@
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Content\enemy.xnb
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Content\missile.xnb
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Content\player.xnb
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Assignment 1.exe
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Assignment 1.pdb
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+c:\users\filip\documents\visual studio 2015\Projects\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+C:\Users\filip\Documents\Visual Studio 2015\Projects\Assignment 1\Assignment 1\bin\Windows\x86\Debug\Content\Font.xnb
